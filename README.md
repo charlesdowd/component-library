@@ -1,5 +1,5 @@
-# Component library template
+# Shared Component Library
 
-A working template with build and storybook for a Typescript + React 17 component libary, based on https://prateeksurana.me/blog/react-component-library-using-storybook-6/.
+Package to house shared components and build display them in Storybook to be used across different projects.
 
 Run `yarn build` to get your build under `lib`.
